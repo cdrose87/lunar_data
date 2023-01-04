@@ -11,7 +11,7 @@ So which one should you download? Well that depends on your systems region (EU=0
 
 **MOON-mass-moon-es1-v0.8.3-1085JP**
 
-**[030.zip](https://mega.nz/file/4uhSzBLZ#r5qp-23Z5eIfaSVDLNtzIyUoLhqnhPROT1XUhuAvRPs)**: A lunar_data backup from a SEGA MEGA DRIVE from Japan.
+**[030.zip](https://mega.nz/file/4uhSzBLZ#r5qp-23Z5eIfaSVDLNtzIyUoLhqnhPROT1XUhuAvRPs)**: A lunar_data backup from a SEGA MEGA DRIVE from Europe.
 
 **MOON-mass-moon-es1-v0.8.3-1080US**
 
@@ -19,7 +19,7 @@ So which one should you download? Well that depends on your systems region (EU=0
 
 **MOON-mass-moon-es1-v0.8.3-1085EU**
 
-**[032.zip](https://mega.nz/file/ligAnLCQ#mU8wSJswZhRdn9ycvND5hgu-XoYcuKplHeTsMochYu8)**: A lunar_data backup from a SEGA MEGA DRIVE from Europe.
+**[032.zip](https://mega.nz/file/ligAnLCQ#mU8wSJswZhRdn9ycvND5hgu-XoYcuKplHeTsMochYu8)**: A lunar_data backup from a SEGA MEGA DRIVE from Japan.
 
 ## How to:
 
